@@ -1,3 +1,4 @@
 *.net
 *.py
 
+!fifith.py
