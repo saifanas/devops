@@ -2,3 +2,5 @@
 *.py
 
 !fifith.py
+
+[aeiou]*.txt
